@@ -148,7 +148,7 @@
 		"controlname"	"CExLabel"
 		"fieldname"	"fogCrosshair"
 		
-		"visible"	"1"			//1
+		"visible"	"0"			//1
 		"enabled"	"1"
 
 		"xpos"		"c-20"
