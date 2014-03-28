@@ -103,19 +103,19 @@
 	{
 		"label" "7"
 		"command" "engine Server1"
-        "tooltip" "[TheOutpost] 24/7 Surf 0_o"
+        "tooltip" "Favorite Server 1"
 	}
 	"Server2"
 	{
 		"label" "7"
 		"command" "engine Server2"
-        "tooltip" "[TheOutpost] Trade and Play"
+        "tooltip" "Favorite Server 2"
 	}
 	"Server3"
 	{
 		"label" "7"
 		"command" "engine Server3"
-        "tooltip" "[TheOutpost] Dodgeball"
+        "tooltip" "Favorite Server 3"
 	}
 	"ToggleScoreboard"
 	{
