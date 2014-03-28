@@ -2,7 +2,6 @@ SiphonHUD
 ==============
 
 Hello, SiphonHUD is a modified HUD for the game Team Fortress 2 that Coldkiller has started developing.
-This version of the HUD is the developer build that is constantly changing. The actually one is located here: {add link}
 It is heavily based upon YAHUD (flv red) and GOAT_HUD, Credit goes to their authors for many of the modified elements used
 Links to these HUD's for your perusing: https://github.com/whayay/yahud and https://github.com/Goat-/hud/
 
